@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "mon troisieme script" >> ./monscript.log
-echo "oh, le beau script..."
+echo "Mon troisieme script" >> ./monscript.log
+echo "Oh, le beau script..."
 ## fin du script  
