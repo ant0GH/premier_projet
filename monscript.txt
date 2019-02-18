@@ -1,0 +1,3 @@
+description de mon premier script
+
+-> renvoi "mon premier script" et log la sortie dans le fichier "moncript.log"
